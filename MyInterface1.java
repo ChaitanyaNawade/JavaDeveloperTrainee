@@ -9,7 +9,7 @@ class Demo
     public void demo()
     {
         MyInterface1 obj1 = ()->System.out.println("code executed");
-        obj1.print();t 
+        obj1.print();
     }
 }
  
